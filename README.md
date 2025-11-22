@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-
+Rose Ali
 A complete, production-ready machine learning project for detecting fraudulent credit card transactions using Python.
 
 ## 📋 Table of Contents
@@ -342,5 +342,6 @@ This project is provided as-is for educational and portfolio purposes.
 ---
 
 **Happy Fraud Detecting! 🚀**
+
 
 
